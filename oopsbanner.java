@@ -1,5 +1,5 @@
 public class oopsbanner {
     public static void main(String[] args) {
-        System.out.print("OOPS");
+        System.out.print("Welcome to oops");
     }
 }
